@@ -1,5 +1,5 @@
 # 3D_CC
-3D Printer cabinet temperature control. Including Kuman 4 relais board and GHT Temp sensors
+3D Printer cabinet temperature control. Including Kuman 8 relais board and GHT Temp sensors
 The cabinet has a false bottom which houses a transformer for various voltages i.e. Pi3b, 12V PC Fans, Extractor Fan, 
 and Hair dryer for heating. 
 The hair dryer blows warm air under the false floor and through vents to gently heat the cabinet if required.
